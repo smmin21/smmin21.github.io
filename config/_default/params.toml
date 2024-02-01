@@ -116,13 +116,13 @@ defaultFeaturedImage = "/img/background.png" # used as default for featured imag
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyCM9wpKO3ghjmu29W4kpiSiNdSqu7IMwCg"
+  authDomain = "my-blog-753d5.firebaseapp.com"
+  projectId = "my-blog-753d5"
+  storageBucket = "my-blog-753d5.appspot.com"
+  messagingSenderId = "128495073553"
+  appId = "1:128495073553:web:cf8c8bdb86e08654dc74b0"
+  measurementId = "G-4Y6YG1LJ4W"
 
 [fathomAnalytics]
   # site = "ABC12345"
