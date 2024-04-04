@@ -72,6 +72,7 @@ defaultFeaturedImage = "/img/background.png" # used as default for featured imag
   showTaxonomies = true  # 제목 부분에 태그 보이게 하는 기능
   showAuthorsBadges = false
   showWordCount = false
+  showComments = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = true
 
